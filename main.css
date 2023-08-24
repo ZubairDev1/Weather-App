@@ -97,3 +97,7 @@ button {
   font-size: 25px;
   font-weight: bold;
 }
+footer {
+  margin-top: 15px;
+    text-align: center;
+}
