@@ -94,5 +94,6 @@ button {
   margin-bottom: 5px;
 }
 #description {
-  font-size: 18px;
+  font-size: 25px;
+  font-weight: bold;
 }
